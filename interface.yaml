@@ -1,0 +1,4 @@
+name: nova-compute
+summary: Controller <-> compute interface
+version: 1
+maintainer: "<openstack-charmers@lists.ubuntu.com>"
