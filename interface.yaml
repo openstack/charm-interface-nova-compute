@@ -1,4 +1,13 @@
 name: nova-compute
-summary: Controller <-> compute interface
+summary: Interface for joining compute resource to a controller.
 version: 1
-maintainer: "<openstack-charmers@lists.ubuntu.com>"
+maintainer: OpenStack Charmers <openstack-dev@lists.openstack.org>
+ignore:
+  - 'unit_tests'
+  - 'Makefile'
+  - '.testr.conf'
+  - 'test-requirements.txt'
+  - 'tox.ini'
+  - '.gitignore'
+  - '.gitreview'
+  - '.unit-state.db'
