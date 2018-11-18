@@ -1,7 +1,7 @@
 name: nova-compute
 summary: Interface for joining compute resource to a controller.
 version: 1
-maintainer: OpenStack Charmers <openstack-dev@lists.openstack.org>
+maintainer: OpenStack Charmers <openstack-discuss@lists.openstack.org>
 ignore:
   - 'unit_tests'
   - 'Makefile'
